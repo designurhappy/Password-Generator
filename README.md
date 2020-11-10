@@ -18,6 +18,4 @@ https://github.com/designurhappy/Password-Generator
 * Email Address: beachgal0105@gmail.com
 * Contact Instructions: Please email me for additional questions or call me at (805) 990-9977
 
-https://github.com/designurhappy/Password-Generator/issues/5#issue-739678581
-
-https://user-images.githubusercontent.com/65265697/98645657-23e60900-22e7-11eb-91bc-0a3eb1ae5020.JPG
+![alt text](https://github.com/[designurhappy]/[Password-Generator]/blob/[master]/Password-Generator.jpg?raw=true)
