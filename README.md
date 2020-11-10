@@ -1,7 +1,7 @@
 # Password Generator
 A tool to provide the user a way to have a password generated for them by following the prompts. The user can instruct the tool to include special characters in the password.
 
-<img src=“https://github.com/designurhappy/Password-Generator/blob/master/Password-Generator.JPG”>
+![ScreenShot](./Password-Generator.JPG)
 
 
 ## URL of Deployed Application
