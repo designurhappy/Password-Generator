@@ -19,3 +19,4 @@ https://github.com/designurhappy/Password-Generator
 * Contact Instructions: Please email me for additional questions or call me at (805) 990-9977
 
 
+https://github.com/designurhappy/Password-Generator/blob/master/Password-Generator.JPG
