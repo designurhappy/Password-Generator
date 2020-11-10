@@ -1,6 +1,9 @@
 # Password Generator
 A tool to provide the user a way to have a password generated for them by following the prompts. The user can instruct the tool to include special characters in the password.
 
+<img src=“https://github.com/designurhappy/Password-Generator/blob/master/Password-Generator.JPG”>
+
+
 ## URL of Deployed Application
 https://designurhappy.github.io/Password-Generator/
 
@@ -19,4 +22,4 @@ https://github.com/designurhappy/Password-Generator
 * Contact Instructions: Please email me for additional questions or call me at (805) 990-9977
 
 
-<img src=“https://github.com/designurhappy/Password-Generator/blob/master/Password-Generator.JPG”>
+
