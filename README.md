@@ -2,7 +2,7 @@
 A tool to provide the user a way to have a password generated for them by following the prompts. The user can instruct the tool to include special characters in the password.
 
 ## URL of Deployed Application
-
+https://designurhappy.github.io/Password-Generator/
 
 ## GitHub Respository
 https://github.com/designurhappy/Password-Generator
