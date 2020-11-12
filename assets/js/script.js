@@ -1,4 +1,8 @@
-// Assignment code here
+//elements
+const generateBtn = document.querySelector('#generate');
+const copyBtn = document.querySelector('#copy');
+let passwordText = document.querySelector('#password');
+
 
 
 // Get references to the #generate element
